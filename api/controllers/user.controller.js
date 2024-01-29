@@ -1,3 +1,3 @@
-export const test = (request, response) => {
+export const user = (request, response) => {
     response.json({ message: "Working As Excepted::" });
 }
